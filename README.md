@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdh4601&label=Profile%20views&color=0e75b6&style=flat" alt="jdh4601" /> </p>
 
-<p align="center">Hi there! I'm **Donghyun Jeong**, a **Computer Science Student** and **Co-founder of Sound Bartender**. 👋</p>
-<p align="center">Driven by curiosity and passion, I'm dedicated to using **computer vision** to add depth to what only humans can do.</p>
+<p align="center">Hi there! I'm <strong>Donghyun Jeong</strong>, a <strong>Computer Science Student</strong> and <strong>Co-founder of Sound Bartender</strong>. 👋</p>
+<p align="center">Driven by curiosity and passion, I'm dedicated to using <strong>computer vision</strong> to add depth to what only humans can do.</p>
 
 ### 🛠️ Tech Stack & Interests
 
