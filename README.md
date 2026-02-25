@@ -4,13 +4,14 @@
 
 <pre>
   Hi! My name is
+  
   ██████╗  ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗██╗   ██╗██╗   ██╗███╗   ██╗
   ██╔══██╗██╔═══██╗████╗  ██║██╔════╝ ██║  ██║╚██╗ ██╔╝██║   ██║████╗  ██║
   ██║  ██║██║   ██║██╔██╗ ██║██║  ███╗███████║ ╚████╔╝ ██║   ██║██╔██╗ ██║
   ██║  ██║██║   ██║██║╚██╗██║██║   ██║██╔══██║  ╚██╔╝  ██║   ██║██║╚██╗██║
   ██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║   ██║   ╚██████╔╝██║ ╚████║
   ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
-      + <a href="https://www.linkedin.com/in/donghyun10/">Deep Learning Engineer & Full Stack Developer</a>
+      + CS student & Product Engineer
 </pre>
 
 > ```console
@@ -33,16 +34,16 @@
   |___/\__\__,_|\___|_|\_\___/      - everything that I use
 
   AI/ML:
-    + <a href="https://github.com/donghyun10">PyTorch</a>       + <a href="https://github.com/donghyun10">Deep Learning</a> + <a href="https://github.com/donghyun10">Computer Vision</a> + <a href="https://github.com/donghyun10">NLP</a>
+    + PyTorch       + Deep Learning + Computer Vision + NLP
 
   Frameworks:
-    + <a href="https://github.com/donghyun10">React</a>         + <a href="https://github.com/donghyun10">Next.js</a>       + <a href="https://github.com/donghyun10">Node.js</a>
+    + React         + Next.js       + Node.js
 
   Languages:
-    + <a href="https://github.com/donghyun10">Python</a>        + <a href="https://github.com/donghyun10">C++</a>           + <a href="https://github.com/donghyun10">TypeScript</a>    + <a href="https://github.com/donghyun10">JavaScript</a>
+    + Python        + C++           + TypeScript       + JavaScript
 
   Cloud & Tools:
-    + <a href="https://github.com/donghyun10">AWS</a>           + <a href="https://github.com/donghyun10">Git</a>           + <a href="https://github.com/donghyun10">Docker</a>
+    + AWS           + Git           + Docker           + Figma
 </pre>
 
 > ```console
@@ -50,5 +51,7 @@
 > ```
 
 <pre>
-  Coming soon...
+  + <a href="https://github.com/spea-King/Front/tree/main/interview-app">Interview App</a>    - AI interview practice platform
+  + <a href="https://github.com/jdh4601/ClosetBot.git">ClosetBot</a>        - AI-powered wardrobe assistant
+  + <a href="https://github.com/jdh4601/2025_UNITHON_TEAM_9_FE.git">UNITHON Team 9</a>   - Hackathon project frontend
 </pre>
