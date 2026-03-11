@@ -47,7 +47,7 @@
 </pre>
 
 > ```console
-> donghyun@github:~$ cat projects
+> donghyun@github:~$ ls projects
 > ```
 
 <pre>
