@@ -19,7 +19,7 @@
 > ```
 
 <pre>
-  <a href="https://www.linkedin.com/in/donghyun10/">linkedin</a>  <a href="https://hynfinity.substack.com/">blog</a>  stacks  projects <a href="https://jdh4601.github.io/">website</a>
+  <a href="https://jdh4601.github.io/">website</a> <a href="https://www.linkedin.com/in/donghyun10/">linkedin</a>  <a href="https://hynfinity.substack.com/">blog</a>  stacks  projects
 </pre>
 
 > ```console
