@@ -51,8 +51,8 @@
 > ```
 
 <pre>
-  + <a href="https://github.com/spea-King/Front/tree/main/interview-app">Interview App</a>    - AI interview practice platform
-  + <a href="https://github.com/jdh4601/ClosetBot.git">ClosetBot</a>        - AI-powered wardrobe assistant
-  + <a href="https://github.com/jdh4601/2025_UNITHON_TEAM_9_FE.git">Chakbot</a>   - AI-assisted virtual fitting service
-  + <a href="https://github.com/jdh4601/student-manager.git">Student Manager</a>      - AI assisted students manager dashboard
++ <a href="https://github.com/spea-King/Front/tree/main/interview-app">Interview App</a>   - AI interview practice platform
++ <a href="https://github.com/jdh4601/ClosetBot.git">ClosetBot</a>       - AI-powered wardrobe assistant
++ <a href="https://github.com/jdh4601/2025_UNITHON_TEAM_9_FE.git">Chakbot</a>         - AI-assisted virtual fitting service
++ <a href="https://github.com/jdh4601/student-manager.git">Student Manager</a> - AI-assisted student manager dashboard
 </pre>
