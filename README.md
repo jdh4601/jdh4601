@@ -19,7 +19,7 @@
 > ```
 
 <pre>
-  <a href="https://www.linkedin.com/in/donghyun10/">linkedin</a>  <a href="https://hynfinity.substack.com/">blog</a>  stacks  projects
+  <a href="https://www.linkedin.com/in/donghyun10/">linkedin</a>  <a href="https://hynfinity.substack.com/">blog</a>  stacks  projects <a href="https://jdh4601.github.io/">website</a>
 </pre>
 
 > ```console
@@ -54,4 +54,5 @@
   + <a href="https://github.com/spea-King/Front/tree/main/interview-app">Interview App</a>    - AI interview practice platform
   + <a href="https://github.com/jdh4601/ClosetBot.git">ClosetBot</a>        - AI-powered wardrobe assistant
   + <a href="https://github.com/jdh4601/2025_UNITHON_TEAM_9_FE.git">Chakbot</a>   - AI-assisted virtual fitting service
+  + <a href="https://github.com/jdh4601/student-manager.git">Student Manager</a>      - AI assisted students manager dashboard
 </pre>
